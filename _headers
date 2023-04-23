@@ -1,0 +1,11 @@
+/*
+  Access-Control-Allow-Origin: *
+  X-Robots-Tag: nosnippet, noindex
+
+/.well-known/nostr.json
+  Access-Control-Allow-Origin: *
+  X-Robots-Tag: nosnippet, noindex
+
+https://:nostr_nip-05.pages.dev/*
+  Access-Control-Allow-Origin: *
+  X-Robots-Tag: nosnippet, noindex
